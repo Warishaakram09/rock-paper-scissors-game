@@ -17,7 +17,7 @@ A simple and interactive **Rock Paper Scissors** game built with Python! 🎮�
 ## 🛠 Installation & Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
+   git clone https://github.com/Warishaakram09/rock-paper-scissors-game
    ```
 2. **Navigate to the folder**
    ```bash
